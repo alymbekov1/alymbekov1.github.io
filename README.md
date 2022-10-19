@@ -5,8 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-</head>
-<style>
+    <style>
 .brat{
     text-align: center;
 }
@@ -15,6 +14,8 @@
 }
 
 </style>
+</head>
+
 <body>
   <div class="brat">  <h1>Если обещаешь не кому не говорить, тогда нажимай на ссылку снизу👇</h1></div>
     <Div class="ssylka"><a href="anjo.html"><em> Нажми на меня</em></a></h3></Div>
